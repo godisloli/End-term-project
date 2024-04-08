@@ -1,0 +1,11 @@
+D:\Random Stuff\VSS Saves\NDS\NDS\obj\Debug\NDS.csproj.AssemblyReference.cache
+D:\Random Stuff\VSS Saves\NDS\NDS\obj\Debug\NDS.login.resources
+D:\Random Stuff\VSS Saves\NDS\NDS\obj\Debug\NDS.Properties.Resources.resources
+D:\Random Stuff\VSS Saves\NDS\NDS\obj\Debug\NDS.csproj.GenerateResource.cache
+D:\Random Stuff\VSS Saves\NDS\NDS\obj\Debug\NDS.csproj.CoreCompileInputs.cache
+D:\Random Stuff\VSS Saves\NDS\NDS\bin\Debug\NDS.exe
+D:\Random Stuff\VSS Saves\NDS\NDS\bin\Debug\NDS.pdb
+D:\Random Stuff\VSS Saves\NDS\NDS\obj\Debug\NDS.exe
+D:\Random Stuff\VSS Saves\NDS\NDS\obj\Debug\NDS.pdb
+D:\Random Stuff\VSS Saves\NDS\NDS\obj\Debug\NDS.mainUI.resources
+D:\Random Stuff\VSS Saves\NDS\NDS\obj\Debug\NDS.viewdetail.resources
